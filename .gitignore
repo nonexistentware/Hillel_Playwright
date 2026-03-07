@@ -184,3 +184,9 @@ dist
 /playwright/.cache/
 .local-browsers/
 playwright/.auth/
+
+# Playwright traces, videos, screenshots
+trace.zip
+*.trace
+*.webm
+*.png
