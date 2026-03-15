@@ -184,3 +184,4 @@ dist
 /playwright/.cache/
 .local-browsers/
 playwright/.auth/
+.env
