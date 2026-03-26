@@ -1,4 +1,4 @@
 export const VALID_USER = {
-    email: "",
-    password: "Password123!"
+    email: "testplaywright2026@gmail.com",
+    password: "Playwright2026!"
 }

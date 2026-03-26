@@ -176,9 +176,8 @@ test("Check that warning message has red color", async ({page}) => {
 
 test.describe("Cehck login button", () => {
 
-test("Check that new customer could be registered", async ({ page }) => {
-
-
+test.only("Check that new customer could be registered", async ({ page }) => {
+  await page.context().storageState({ path: "./pom/test-data/states/initialstorageState.json" });
   const email = `test${Date.now()}@gmail.com`;
   await registrationForm.firstName.fill("Test");
   await registrationForm.lastName.fill("Test");
@@ -189,8 +188,7 @@ test("Check that new customer could be registered", async ({ page }) => {
   await registrationForm.registrationButton.click();
   await expect(page).toHaveURL(/panel\/garage/);
   await expect(garagePage.garageTitle).toBeVisible();
-
-
+  await page.context().storageState({ path: "./pom/test-data/states/finalStorageState.json" });
 });
 
 test("Check that registartion button is disabled if were inputted invalid data ", async ({ page }) => {

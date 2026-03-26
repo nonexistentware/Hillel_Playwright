@@ -1,0 +1,77 @@
+{
+  "cookies": [
+    {
+      "name": "YSC",
+      "value": "suz7V_XxprU",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://forstudy.space",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "__Secure-ROLLOUT_TOKEN",
+      "value": "CIvs1ZX12qvVsgEQ3dGMuqC-kwMY3dGMuqC-kwM%3D",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1790103759.492193,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://forstudy.space",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "VISITOR_INFO1_LIVE",
+      "value": "TvUTD0vtUvY",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1790103759.492359,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://forstudy.space",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "VISITOR_PRIVACY_METADATA",
+      "value": "CgJVQRIEGgAgVQ%3D%3D",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1790103759.492371,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://forstudy.space",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "sid",
+      "value": "s%3Ad7J7sHAG59D2F65F1BHTfOXCFbqUyeys.Z9RXC0wiYmuiYsB0GJ1AMyn4a%2BgBBKvQ5hiahrunW%2B0",
+      "domain": ".forstudy.space",
+      "path": "/",
+      "expires": 1774638160.644979,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.youtube.com",
+      "localStorage": [
+        {
+          "name": "ytidb::LAST_RESULT_ENTRY_KEY",
+          "value": "{\"data\":{\"hasSucceededOnce\":true},\"expiration\":1777143759660,\"creation\":1774551759660}"
+        },
+        {
+          "name": "yt-icons-last-purged",
+          "value": "1767121359697"
+        }
+      ]
+    }
+  ]
+}
