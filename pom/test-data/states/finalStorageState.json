@@ -1,0 +1,77 @@
+{
+  "cookies": [
+    {
+      "name": "YSC",
+      "value": "qL2YEfsskFo",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://forstudy.space",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "VISITOR_INFO1_LIVE",
+      "value": "CRlyZ8MPvLE",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1790429759.727681,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://forstudy.space",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "VISITOR_PRIVACY_METADATA",
+      "value": "CgJVQRIEGgAgYA%3D%3D",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1790429759.727705,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://forstudy.space",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "__Secure-ROLLOUT_TOKEN",
+      "value": "CNGd_9jNs7Gk6gEQ4qqL897HkwMY4qqL897HkwM%3D",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1790429759.727724,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://forstudy.space",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "sid",
+      "value": "s%3AE-zQtv3U1x-ct_Ab4au4HFrLdQJJmDOU.p5dQulmb8hGOc6LGuWGCGZ8C8EVcfNE6LmRfCiPdffs",
+      "domain": ".forstudy.space",
+      "path": "/",
+      "expires": 1774964161.024314,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.youtube.com",
+      "localStorage": [
+        {
+          "name": "ytidb::LAST_RESULT_ENTRY_KEY",
+          "value": "{\"data\":{\"hasSucceededOnce\":true},\"expiration\":1777469759891,\"creation\":1774877759891}"
+        },
+        {
+          "name": "yt-icons-last-purged",
+          "value": "1769438159926"
+        }
+      ]
+    }
+  ]
+}
