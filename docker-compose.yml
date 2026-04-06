@@ -1,0 +1,20 @@
+version: '3'
+
+services:
+  web:
+    build: ./webapp
+    container_name: web
+    ports:
+      - "8080:80"
+
+  e2e:
+    image: mcr.microsoft.com/playwright:v1.58.2-noble
+    container_name: playwright
+    depends_on:
+      - web
+    working_dir: /app
+    volumes:
+      - ./:/app
+    environment:
+      - BASE_URL=http://web
+    command: npx playwright test
