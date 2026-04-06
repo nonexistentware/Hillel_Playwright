@@ -2,7 +2,7 @@
   "cookies": [
     {
       "name": "YSC",
-      "value": "Kz9ltHKJa0w",
+      "value": "q5LjBtEW9fY",
       "domain": ".youtube.com",
       "path": "/",
       "expires": -1,
@@ -14,10 +14,10 @@
     },
     {
       "name": "VISITOR_INFO1_LIVE",
-      "value": "YtdLQTlDdo4",
+      "value": "cv9ZtCff8bo",
       "domain": ".youtube.com",
       "path": "/",
-      "expires": 1790543850.047386,
+      "expires": 1791039185.829661,
       "httpOnly": true,
       "secure": true,
       "sameSite": "None",
@@ -26,10 +26,10 @@
     },
     {
       "name": "VISITOR_PRIVACY_METADATA",
-      "value": "CgJVQRIEGgAgVQ%3D%3D",
+      "value": "CgJVQRIEGgAgLQ%3D%3D",
       "domain": ".youtube.com",
       "path": "/",
-      "expires": 1790543850.047396,
+      "expires": 1791039185.829673,
       "httpOnly": true,
       "secure": true,
       "sameSite": "None",
@@ -38,10 +38,10 @@
     },
     {
       "name": "__Secure-ROLLOUT_TOKEN",
-      "value": "CMOmsIDhleap1wEQ_5bM9YfLkwMY_5bM9YfLkwM%3D",
+      "value": "CLyf5sifm9bMBRCeu46YvdmTAxieu46YvdmTAw%3D%3D",
       "domain": ".youtube.com",
       "path": "/",
-      "expires": 1790543850.047408,
+      "expires": 1791039185.829685,
       "httpOnly": true,
       "secure": true,
       "sameSite": "None",
@@ -50,10 +50,10 @@
     },
     {
       "name": "sid",
-      "value": "s%3AdIcISWg6FYsY7VMnN9u0lbf1wERDp_nd.KABDqJppQCl7f2PeB0Va68asTSU4d8%2BIpIXVR7bTyy8",
+      "value": "s%3A0UvkiamYeY4K_Vwg1QEGt32ky5e5LuGH.SDAKxU6uhReulMbB0ycsK%2BmOgY80m6tLQtL%2Fd82TiiM",
       "domain": ".forstudy.space",
       "path": "/",
-      "expires": 1775078251.603673,
+      "expires": 1775573587.471259,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -65,11 +65,11 @@
       "localStorage": [
         {
           "name": "ytidb::LAST_RESULT_ENTRY_KEY",
-          "value": "{\"data\":{\"hasSucceededOnce\":true},\"expiration\":1777583850210,\"creation\":1774991850211}"
+          "value": "{\"data\":{\"hasSucceededOnce\":true},\"expiration\":1778079185997,\"creation\":1775487185997}"
         },
         {
           "name": "yt-icons-last-purged",
-          "value": "1772140650255"
+          "value": "1773676386054"
         }
       ]
     }
