@@ -11,6 +11,10 @@ env:
 
 jobs:
   test:
+    env:
+      BASE_URL: ${{ secrets.BASE_URL }}
+      AUTH_USERNAME: ${{ secrets.AUTH_USERNAME }}
+      AUTH_PASSWORD: ${{ secrets.AUTH_PASSWORD }}
     timeout-minutes: 60
     runs-on: ubuntu-latest
 
